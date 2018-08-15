@@ -1,2 +1,2 @@
 # atsclouds
-ATSCLOUDS is a repository for Kodi plugins.
+ATSCLOUDS is a repository for plugins, apks and other apps.
